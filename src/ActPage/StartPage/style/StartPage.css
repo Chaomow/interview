@@ -1,0 +1,23 @@
+.GametPage {
+  position: relative;
+}
+
+.bg_GmaePage {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.btn_Gametart {
+  position: absolute;
+  width: 45vw;
+  height: auto;
+  top: 26.5%;
+  left: 26.5%;
+  cursor: pointer;
+}
+
+.btn_Gametart:hover {
+  border-radius: 30px;
+  box-shadow: 0 0 10px white;
+}
